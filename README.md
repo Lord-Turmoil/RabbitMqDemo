@@ -4,5 +4,5 @@
 
 ---
 
-Repository for [Using RabbitMQ in Spring Boot Application](https://www.tonys-studio.top/posts/Using-RabbitMQ-in-Spring-Boot-Application/).
+Repository for [Using RabbitMQ in Spring Boot Application](https://www.tonys-studio.top/posts/Using-RabbitMQ-in-Spring-Boot-Application/) ([Backup](https://lord-turmoil.github.io/posts/Using-RabbitMQ-in-Spring-Boot-Application/)).
 
